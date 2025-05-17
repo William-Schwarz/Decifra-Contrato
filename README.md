@@ -34,7 +34,7 @@ Imagine poder entender cada detalhe de um contrato de aluguel, um termo de servi
 Para experimentar o **Decifra-Contrato**, siga estes passos:
 
 1.  **Abra este código no Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/William-Schwarz/Decifra-Contrato/blob/william_ds/Decifra_Contrato.ipynb)
-2.  **Certifique-se de ter sua chave da API do Google Gemini configurada nos "Segredos" do Colab.** [![How to Configure](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Authentication.ipynb)
+2.  **Certifique-se de ter sua chave da API do Google Gemini configurada nos "Segredos" do Colab.** Consulte o [tutorial de autenticação aqui](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Authentication.ipynb).
 3.  **Execute as células de código em sequência.**
 4.  **Na seção de execução, escolha se deseja colar o texto ou carregar um arquivo.**
 5.  **Siga as instruções para fornecer o contrato.**
