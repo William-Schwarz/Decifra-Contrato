@@ -6,23 +6,23 @@ Este projeto inovador, **Decifra-Contrato**, utiliza o poder da Inteligência Ar
 
 Imagine poder entender cada detalhe de um contrato de aluguel, um termo de serviço ou qualquer outro documento legal sem a necessidade de um especialista. **Decifra-Contrato** torna isso uma realidade!
 
-## 🌟 Principais Funcionalidades que lhe Impressionarão
+## 🌟 Funcionalidades Inteligentes que Tornam o Complexo, Simples
 
 * **Recepção Flexível de Contratos:**
     * Permite colar o texto do contrato diretamente na interface.
     * Suporta o carregamento de arquivos nos formatos **.pdf**, **.docx** e **.txt**.
-* **Extração Inteligente de Texto:** Garante que o texto do contrato seja extraído de forma limpa e eficiente, preparando-o para análise.
+* **Extração Inteligente de Texto:** Assegura uma extração limpa e eficiente do texto contratual, preparando-o para análise.
 * **Identificação de Jargões:** Um agente especializado identifica os termos jurídicos e técnicos que podem ser confusos para leigos.
 * **Explicação Clara e Concisa:** Utiliza a busca do Google integrada para fornecer explicações simples e exemplos práticos para cada jargão identificado.
 * **Resumo Inteligente e Destaque de Pontos Chave:**
-    * Gera um resumo objetivo e compreensíve.
-    * Destaca as cláusulas e informações cruciais, como objeto do contrato, obrigações, prazos, pagamentos, rescisão e penalidades.
+    * Gera um resumo objetivo e compreensível.
+    * Destaca as cláusulas e informações cruciais, como: objeto do contrato, obrigações, prazos, pagamentos, rescisão e penalidades.
 * **Arquitetura Robusta com Agentes:** O sistema é construído utilizando a poderosa arquitetura de agentes do ADK, permitindo uma divisão clara de responsabilidades e um fluxo de processamento eficiente.
-* **Tecnologia de Ponta:** Integra as mais recentes ferramentas do Google AI, demonstrando conhecimento e aplicação de tecnologias avançadas.
+* **Tecnologia de Ponta:** Integra as mais recentes ferramentas do Google AI, evidenciando domínio e aplicação de tecnologias de ponta.
 
 ## ⚙️ Como Funciona: Uma Jornada de Desmistificação
 
-1.  **Recepção do Contrato:** O usuário fornece o contrato, seja colando o texto ou carregando um arquivo.
+1.  **Recepção do Contrato:** O usuário fornece o contrato, seja colando o texto, seja carregando um arquivo.
 2.  **Extração:** O `agente_receptor` extrai o texto puro do contrato, removendo formatações desnecessárias.
 3.  **Identificação de Jargões:** O `agente_identificador` analisa o texto e lista os termos complexos.
 4.  **Explicação:** O `agente_explicador` busca e fornece explicações claras para cada jargão, utilizando a busca do Google quando necessário.
