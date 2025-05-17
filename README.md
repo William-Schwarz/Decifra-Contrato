@@ -33,8 +33,8 @@ Imagine poder entender cada detalhe de um contrato de aluguel, um termo de servi
 
 Para experimentar o **Decifra-Contrato**, siga estes passos:
 
-1.  **Abra este código no Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO)
-2.  **Certifique-se de ter sua chave da API do Google Gemini configurada nos "Segredos" do Colab.**
+1.  **Abra este código no Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/William-Schwarz/Decifra-Contrato/blob/william_ds/Decifra_Contrato.ipynb)
+2.  **Certifique-se de ter sua chave da API do Google Gemini configurada nos "Segredos" do Colab.** [![How to Configure](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Authentication.ipynb)
 3.  **Execute as células de código em sequência.**
 4.  **Na seção de execução, escolha se deseja colar o texto ou carregar um arquivo.**
 5.  **Siga as instruções para fornecer o contrato.**
@@ -51,7 +51,7 @@ Para experimentar o **Decifra-Contrato**, siga estes passos:
 
 O **Decifra-Contrato** foi testado utilizando uma variedade de exemplos de contratos, incluindo modelos fictícios com estrutura e linguagem realistas obtidos de plataformas como o [Jusbrasil](https://www.jusbrasil.com.br/modelos-pecas/contrato-de-transferencia-de-dados-pessoais/1837305582). Esses testes ajudaram a validar a capacidade do sistema em identificar jargões, fornecer explicações claras e gerar resumos concisos em cenários práticos. Além disso, foram utilizados exemplos de contratos fornecidos diretamente e em diferentes formatos de arquivo (.pdf, .docx, .txt).
 
-## 🏆 Por Que Este Projeto Merece Destaque na Avaliação
+## 🏆 Por Que Este Projeto Merece Destaque
 
 * **Inovação:** Aplicação de IA de ponta para resolver um problema prático e relevante.
 * **Relevância:** A compreensão de contratos é crucial em diversas áreas da vida.
@@ -88,3 +88,9 @@ Ao analisar e votar neste projeto, considere a inovação da solução, a aplica
 Agradecemos à equipe da Alura pela excelente Imersão em Inteligência Artificial e à equipe do Google AI pela disponibilização do Gemini 2.0 Flash e do Agent Development Kit, que tornaram este projeto possível.
 
 ---
+
+## ⚠️ Importante
+
+Embora o **Decifra-Contrato** utilize Inteligência Artificial para simplificar a leitura de contratos, **nenhum sistema automatizado substitui a análise de um profissional especializado**.
+Este projeto tem como objetivo **auxiliar na compreensão inicial** de documentos legais. **Para decisões importantes ou interpretações jurídicas mais profundas, é fundamental consultar um advogado ou especialista da área.**
+A IA é uma aliada poderosa, mas a responsabilidade final deve sempre considerar o contexto e a experiência humana.
